@@ -1,0 +1,6 @@
+com\myapp\spring\DevopsSpringbootApplication.class
+com\myapp\spring\repository\ProductRepository.class
+com\myapp\spring\ServletInitializer.class
+com\myapp\spring\model\Product.class
+com\myapp\spring\web\api\ResourceNotFoundException.class
+com\myapp\spring\web\api\ProductAPI.class
