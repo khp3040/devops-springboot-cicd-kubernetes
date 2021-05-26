@@ -93,8 +93,7 @@ metadata:
   name: mysql-config
 data:
   MYSQL_DATABASE: petdb
-  MYSQL_DATABASE_URL: jdbc:mysql://mysql/petdb
+  MYSQL_DATABASE_URL: jdbc:mysql://mysql/devops
   initdb.sql: |
-    use petdb;
-    CREATE TABLE flight (id int, airlines VARCHAR(40), distance int);
-    INSERT INTO flight VALUES(1,'airindia',567);
+    use devops;
+ 
